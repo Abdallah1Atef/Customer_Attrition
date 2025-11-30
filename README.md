@@ -140,17 +140,16 @@ curl -X POST "http://localhost:5000/predict" \
 ## 🖼️ Screenshots / Demo
 
 <div align="center">
-	<table>
 		<tr>
 			<td align="center" style="padding:8px">
 				<figure>
-					<img src="./assets/screenshot-dashboard1.png" alt="Dashboard 1" style="width:320px;max-width:45vw;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.08);" />
+					<table><img width="1920" height="1080" alt="screenshot-dashboard1" src="https://github.com/user-attachments/assets/86983aaf-3e0c-43e2-9808-32d1b9b40736" />
 					<figcaption style="font-size:12px;margin-top:6px;color:#444">Dashboard — Overview</figcaption>
 				</figure>
 			</td>
 			<td align="center" style="padding:8px">
 				<figure>
-					<img src="./assets/screenshot-dashboard2.png" alt="Dashboard 2" style="width:320px;max-width:45vw;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.08);" />
+					<img width="1920" height="1080" alt="screenshot-dashboard2" src="https://github.com/user-attachments/assets/10f46f8e-32c9-4a71-8e70-bfe8b275ad81" />
 					<figcaption style="font-size:12px;margin-top:6px;color:#444">Dashboard — Filters & Charts</figcaption>
 				</figure>
 			</td>
@@ -158,7 +157,7 @@ curl -X POST "http://localhost:5000/predict" \
 		<tr>
 			<td colspan="2" align="center" style="padding:8px">
 				<figure>
-					<img src="./assets/prediction.png" alt="Prediction response" style="width:560px;max-width:90vw;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.08);" />
+					<img width="1729" height="914" alt="prediction" src="https://github.com/user-attachments/assets/4db1f19b-e0f2-4233-a5b9-c096638367fe" />
 					<figcaption style="font-size:12px;margin-top:6px;color:#444">Sample prediction response</figcaption>
 				</figure>
 			</td>
@@ -204,15 +203,15 @@ Please open issues for bugs or feature requests and tag them appropriately.
 <table>
 	<tr>
 		<td align="center" width="160">
+			<img src="https://avatars.githubusercontent.com/u/167599516?v=4" width="96" alt="Abdallah1Atef" style="border-radius:50%"/>
+			<p><strong>Abdallah Atef</strong><br/>
+			<a href="https://github.com/Abdallah1Atef">@Abdallah1Atef</a></p>
+		</td>
+		<td align="center" width="160">
 			<img src="https://avatars.githubusercontent.com/u/179109266?v=4" width="96" alt="MuhammedMahmoud0" style="border-radius:50%"/>
 			<p><strong>Muhammed Mahmmoud</strong><br/>
 			<a href="https://github.com/MuhammedMahmoud0">@MuhammedMahmoud0</a><br/>
 			<a href="mailto:muhammedmahmoud091@gmail.com">muhammedmahmoud091@gmail.com</a></p>
-		</td>
-		<td align="center" width="160">
-			<img src="https://avatars.githubusercontent.com/u/167599516?v=4" width="96" alt="Abdallah1Atef" style="border-radius:50%"/>
-			<p><strong>Abdallah Atef</strong><br/>
-			<a href="https://github.com/Abdallah1Atef">@Abdallah1Atef</a></p>
 		</td>
 		<td align="center" width="160">
 			<img src="https://avatars.githubusercontent.com/u/111690029?v=4" width="96" alt="Mohamed-ds-au" style="border-radius:50%"/>
